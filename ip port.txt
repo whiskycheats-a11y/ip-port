@@ -1,1 +1,1 @@
-miami.pixonode.com:2049
+ovh.hexacloud.qzz.io:25565
